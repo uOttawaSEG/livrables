@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965153510911",
+    "firebase_url": "https://novig-f5ba5.firebaseio.com",
+    "project_id": "novig-f5ba5",
+    "storage_bucket": "novig-f5ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965153510911:android:8f6a3a59539808af7243ca",
+        "android_client_info": {
+          "package_name": "com.example.servicenovigrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965153510911-sbk2c98m4cnefr18f140729gjj2l8jdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWUzj78lLV66p911useaD6gVyyrSOi6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965153510911-sbk2c98m4cnefr18f140729gjj2l8jdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
